@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "category": "DevOps",
+        "topic": "CloudComputing",
+        "tweets": "9.4k"
+    },
+    {
+        "id": 2,
+        "category": "Finance",
+        "topic": "DalalStreet",
+        "tweets": "4.2k"
+    },
+    {
+        "id": 3,
+        "category": "Mystery",
+        "topic": "ChroniclesOfTheDead",
+        "tweets": "2.4k"
+    },
+    {
+        "id": 4,
+        "category": "Web Development",
+        "topic": "TwitterClone",
+        "tweets": "6.9k"
+    },
+    {
+        "id": 5,
+        "category": "Open Source",
+        "topic": "GitwayToOpenSource",
+        "tweets": "4.9k"
+    },
+    {
+        "id": 6,
+        "category": "Hackathon",
+        "topic": "Invictus",
+        "tweets": "6.9k"
+    },
+    {
+        "id": 7,
+        "category": "India",
+        "topic": "IPLAuction",
+        "tweets": "7.6k"
+    }
+]
