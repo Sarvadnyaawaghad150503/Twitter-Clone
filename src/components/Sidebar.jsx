@@ -106,8 +106,10 @@ const Sidebar = () => {
           <img src="https://res.cloudinary.com/dbszbhg8n/image/upload/v1671632285/avatar_vggyuj.jpg" alt="profileimg" className='w-12 h-12 rounded-full justify-center' />
 
           <div>
+            <a href="/profile">
             <h1 className='text-lg font-bold hover:underline '>Sarvadnya_Awaghad</h1>
             <h1 className='text-lg font-medium'>@Sierra_Alpha_43</h1>
+            </a>
           </div>
          </div>
     </div>

@@ -6,7 +6,7 @@ import Sidebar from '../components/Sidebar'
 
 const Home = () => {
   return <Layout title="Home / Twitter">
-  <div className="h-screen flex flex-row">
+  <div className="h-screen flex flex-row ">
       {/* Sidebar  */}
       <Sidebar />
       {/* Homefeed Section  */}
