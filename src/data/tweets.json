@@ -15,16 +15,9 @@
         "time": "25 mins ago",
         "tweet": "   When you want to do the thing that nobody did till now, once this desire comes from your heart, then you don't have to do anything, that desire will do anything by using your body."
     },
+  
     {
         "id": 3,
-        "image": "https://pbs.twimg.com/profile_images/1455625201702477826/e1Ve_x9d_400x400.jpg",
-        "name": "Atharva Bhoite",
-        "username": "atharvabhoite7",
-        "time": "32 mins ago",
-        "tweet": "Working as TEchnical Officer at ISTE_VESIT. Won HACK-AI-Thon and secured internship. This Year going great "
-    },
-    {
-        "id": 4,
         "image": "https://pbs.twimg.com/profile_images/1535468593462226946/Avec1qSV_400x400.jpg",
         "name": "Sarvesh Patil",
         "username": "sarvesh_2902",
@@ -32,7 +25,7 @@
         "tweet": "Discovered #DevFestMumbai today and registered immediately. I think it is too late and I won't be able to secure a ticket 😞. Is it so, are there any chances of getting a ticket?"
     },
     {
-        "id": 5,
+        "id": 4,
         "image": "https://pbs.twimg.com/profile_images/1599471013678305280/VpnQXIis_400x400.jpg",
         "name": "Divisha Gupta",
         "username": "divishagupta_6",
@@ -40,11 +33,19 @@
         "tweet": "#Happy to join ISTE-VESIT as Executive Secretary. Stay tuned for more events from ISTE"
     },
     {
-        "id": 6,
+        "id": 5,
         "image": "https://pbs.twimg.com/profile_images/1456296278032220162/6HxIS-fk_400x400.jpg",
         "name": "Hrishikesh Kumbhar",
         "username": "Hrishi_156",
         "time": "55 mins ago",
         "tweet": "Explore, learn, apply and keep moving forward."
+    },
+    {
+        "id": 6,
+        "image": "https://pbs.twimg.com/profile_images/1455625201702477826/e1Ve_x9d_400x400.jpg",
+        "name": "Atharva Bhoite",
+        "username": "atharvabhoite7",
+        "time": "32 mins ago",
+        "tweet": "Working as TEchnical Officer at ISTE_VESIT. Won HACK-AI-Thon and secured internship. This Year going great "
     }
 ]
