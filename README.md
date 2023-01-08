@@ -5,6 +5,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h1> GUI Preview </h1>
+
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1673199503/Screenshot_218_hbxyli.png" alt = "homepage"> </img>
+
+<img src = "https://res.cloudinary.com/dbszbhg8n/image/upload/v1673199503/Screenshot_219_izwrnt.png" alt = explorepage> </img>
+
 ## Available Scripts
 
 In the project directory, you can run:
