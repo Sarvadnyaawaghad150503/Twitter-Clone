@@ -5,8 +5,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h1> GUI Preview </h1>
+check out my website 
+<a href ="https://twitter-clone-kgvehpe2p-sarvadnyaawaghad150503.vercel.app/"> Twitter.inc </a>
 
+<h1> GUI Preview </h1>
+<h3>HomePage</h3>
 <img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1673199503/Screenshot_218_hbxyli.png" alt = "homepage"> </img>
 
 <img src = "https://res.cloudinary.com/dbszbhg8n/image/upload/v1673199503/Screenshot_219_izwrnt.png" alt = explorepage> </img>
