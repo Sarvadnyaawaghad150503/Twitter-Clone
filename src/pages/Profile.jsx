@@ -8,6 +8,7 @@ import TweetCard from '../components/TweetCard';
 import tweetData from '../data/tweets.json'
 
 
+
 const Profile = () => {
   const profile = profileData;
 
@@ -22,6 +23,7 @@ const Profile = () => {
       {/* Homefeed Section  */}
       <div className="flex-1 overflow-scroll">
           <ProfileInfo profile={profile}/>
+        
           {allTweets}
       </div>
       {/* Right Explore bar */}
