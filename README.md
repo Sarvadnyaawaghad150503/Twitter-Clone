@@ -6,7 +6,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 check out my website 
-<a href ="https://twitter-clone-kgvehpe2p-sarvadnyaawaghad150503.vercel.app/"> Twitter.inc </a>
+<a href ="https://twitter-clone-39rgcinrc-sarvadnyaawaghad150503.vercel.app"> Twitter.inc </a>
 
 <h1> GUI Preview </h1>
 <h3>HomePage</h3>
